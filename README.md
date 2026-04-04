@@ -4,15 +4,29 @@
 </div>
 
 <div align="center">
-  <em>Software Developer · Computer Science Student · Joinville/SC 🇧🇷</em>
+  <em>Software Developer · Computer Science Student · Goiânia/GO 🇧🇷</em>
 </div>
 
 ---
 
-## 💻 Sobre mim
+## 👨‍💻 Sobre mim
 
-Me chamo **Gustavo Ramos**, tenho X anos e sou de Joinville, Santa Catarina. Atualmente estou cursando Engenharia de Software, focando em desenvolvimento backend com Java/Spring Boot e frontend com JavaScript/TypeScript. Sou apaixonado por construir soluções que resolvem problemas reais e estou sempre em busca de novos desafios.
+Me chamo **Gustavo Ramos**, tenho 19 anos e sou de Joinville, Santa Catarina 🇧🇷.
+Atualmente estou cursando **Ciências da Computação na PUC/GO**, dando os primeiros
+passos na carreira como desenvolvedor e construindo uma base sólida em programação.
 
+Tenho estudado e praticado diversas linguagens — **C/C++**, **JavaScript**, **Python**,
+**HTML** e **CSS** — e estou sempre explorando novas áreas da tecnologia. Acredito que
+a curiosidade é o melhor combustível para crescer na área.
+
+Estou em busca da minha primeira oportunidade profissional, aberto a estágios e
+projetos colaborativos onde eu possa aprender na prática e contribuir com o que já sei.
+
+- 🎓 Ciências da Computação — PUC/GO
+- 📍 Goiânia, Goiás
+- 🚀 Início de carreira — buscando estágio
+- 🔍 Sempre explorando novas tecnologias
+- 📬 gustavo06gomesD6@gmail.com
 ---
 
 ## 🛠️ Stack
