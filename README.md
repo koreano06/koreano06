@@ -27,6 +27,7 @@ projetos colaborativos onde eu possa aprender na prática e contribuir com o que
 - 🚀 Início de carreira — buscando estágio
 - 🔍 Sempre explorando novas tecnologias
 - 📬 gusttavo06gomes06@gmail.com
+
 ---
 
 ## 🛠️ Stack
@@ -47,12 +48,12 @@ projetos colaborativos onde eu possa aprender na prática e contribuir com o que
 ## 📊 Minhas contribuições
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=koreano06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koreano06&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=koreano06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koreano06&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koreano06&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=koreano06&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -73,11 +74,22 @@ projetos colaborativos onde eu possa aprender na prática e contribuir com o que
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-ramos-843543397)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu_usuario)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo06gomesD6@gmail.com)
 
 </div>
 
 ---
+
+<div>
+  <h3>My Contributions</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mths-machado/mths-machado/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mths-machado/mths-machado/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mths-machado/mths-machado/output/github-contribution-grid-snake.svg">
+  </picture>
+
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=koreano06&color=58a6ff&style=flat-square" alt="Profile views"/>
