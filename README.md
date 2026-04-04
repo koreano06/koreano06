@@ -81,14 +81,13 @@ projetos colaborativos onde eu possa aprender na prática e contribuir com o que
 
 ---
 
-<div>
+<div align="center">
   <h3>My Contributions</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mths-machado/mths-machado/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mths-machado/mths-machado/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mths-machado/mths-machado/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/koreano06/koreano06/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/koreano06/koreano06/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/koreano06/koreano06/output/github-contribution-grid-snake.svg">
   </picture>
-
 </div>
 
 <div align="center">
