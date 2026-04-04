@@ -26,7 +26,7 @@ projetos colaborativos onde eu possa aprender na prática e contribuir com o que
 - 📍 Goiânia, Goiás
 - 🚀 Início de carreira — buscando estágio
 - 🔍 Sempre explorando novas tecnologias
-- 📬 gustavo06gomesD6@gmail.com
+- 📬 gusttavo06gomes06@gmail.com
 ---
 
 ## 🛠️ Stack
