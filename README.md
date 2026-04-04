@@ -11,7 +11,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Me chamo **Gustavo Ramos**, tenho 19 anos e sou de Joinville, Santa Catarina 🇧🇷.
+Me chamo **Gustavo Ramos**, tenho 19 anos e sou de Goiânia, Goiás 🇧🇷.
 Atualmente estou cursando **Ciências da Computação na PUC/GO**, dando os primeiros
 passos na carreira como desenvolvedor e construindo uma base sólida em programação.
 
